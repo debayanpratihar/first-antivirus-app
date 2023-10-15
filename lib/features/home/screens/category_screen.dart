@@ -24,7 +24,7 @@ class CategoryScreen extends StatelessWidget {
               ),
               SizedBox(height: 20),
               Text(
-                'Select the category according to what you want',
+                'Select the category according to what you',
                 style: TextStyle(
                   fontSize: 15,
                   color: Colors.purple,
